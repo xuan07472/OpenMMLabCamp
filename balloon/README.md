@@ -3,7 +3,7 @@ __相关信息:__
 
 ```javascript
 dataset：ballon
-model：resnet50
+model：mask_rcnn_r50_caffe_fpn_mstrain-poly_1x_coco
 best_epoch: 9
 bbox_mAP_copypaste: 0.780 0.895 0.874 0.151 0.634 0.849
 segm_mAP_copypaste: 0.816 0.895 0.873 0.202 0.672 0.879
