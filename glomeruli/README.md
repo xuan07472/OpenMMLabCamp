@@ -4,7 +4,7 @@ __相关信息:__
 ```javascript
 dataset：glomeruli
 model：pspnet
-best_epoch: 800
+best_iter: 800
 +------------+-------+-------+
 |   Class    |  IoU  |  Acc  |
 +------------+-------+-------+
