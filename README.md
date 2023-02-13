@@ -14,7 +14,7 @@ __基础作业:__
 - 模型和配置文件：链接：https://pan.baidu.com/s/1CSVDlCRIwA0xaWoRrRGhTQ 提取码：gkmh 
 
 __进阶作业:__
-- log 和 config 在VOC2007目录下
+- log 和 config 在voc2007_mmdet目录下
 - 模型和配置文件：链接：https://pan.baidu.com/s/1h1Dh1XtK1BqFoWtGsG6T0w 提取码：hyd2
 
 ## mmsegmentation
@@ -23,5 +23,5 @@ __基础作业:__
 - 模型和配置文件：链接：https://pan.baidu.com/s/1_nDxTbBPf8dbvGQfRwcbwA 提取码：xb7b
 
 __进阶作业:__
-- log 和 config 在voc2007目录下
+- log 和 config 在voc2007_mmseg目录下
 - 模型和配置文件：链接：https://pan.baidu.com/s/1AwBsrJScNKYuTOnOkJfA-Q 提取码：2e4c 
