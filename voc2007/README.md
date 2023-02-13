@@ -11,7 +11,6 @@ best_iter: 4000
 | 95.27 | 77.37 | 88.85 |
 +-------+-------+-------+
 
-
 ```
 
 模型和配置文件：链接：https://pan.baidu.com/s/1AwBsrJScNKYuTOnOkJfA-Q 提取码：2e4c 
