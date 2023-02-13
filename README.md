@@ -21,3 +21,7 @@ __进阶作业:__
 __基础作业:__
 - log 和 config 在glomeruli目录下
 - 模型和配置文件：链接：https://pan.baidu.com/s/1_nDxTbBPf8dbvGQfRwcbwA 提取码：xb7b
+
+__进阶作业:__
+- log 和 config 在voc2007目录下
+- 模型和配置文件：链接：https://pan.baidu.com/s/1AwBsrJScNKYuTOnOkJfA-Q 提取码：2e4c 
